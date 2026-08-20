@@ -1,8 +1,0 @@
-{
-  "$schema": "https://glama.ai/mcp/schemas/server.json",
-  "name": "industrial-ai-gateway",
-  "description": "Zero-Trust Semantic Infrastructure for Autonomous Cyber-Physical Systems, SCADA/MES Bridges, and Industrial AI Agent Control.",
-  "maintainers": [
-    "MOBILEPHONE"
-  ]
-}

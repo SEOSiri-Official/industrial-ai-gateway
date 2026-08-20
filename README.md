@@ -2,7 +2,6 @@
 
 > 📖 **Official Architecture & Documentation:** [SEOSiri IAIG Guide](https://www.seosiri.com/2026/08/industrial-ai-gateway.html) | [Developer Portal & Graph Explorer](https://developers.seosiri.com/) | [Central Directory](https://www.seosiri.com/2026/07/seosiri-mcp-servers.html)
 
-[![SEOSiri IAIG on Glama](https://glama.ai/mcp/servers/SEOSiri-Official/industrial-ai-gateway/badges/score.svg)](https://glama.ai/mcp/servers/SEOSiri-Official/industrial-ai-gateway)
 
 The Zero-Trust Semantic Infrastructure for Autonomous Cyber-Physical Systems, Factory Floors, SCADA/MES Bridges, and Industrial Robot Fleets.
 

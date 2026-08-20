@@ -26,7 +26,7 @@ export default {
         service: "SEOSiri Industrial AI Gateway Edge",
         version: "1.0.0",
         active_tools: 10,
-        payoneer_monetization_email: SEOSIRI_LICENSING.payoneer_email,
+        payoneer_corporate_settlement_email: SEOSIRI_LICENSING.payoneer_email,
         timestamp: new Date().toISOString()
       }), {
         status: 200,
