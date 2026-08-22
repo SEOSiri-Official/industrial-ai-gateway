@@ -5,6 +5,21 @@
 
 The Zero-Trust Semantic Infrastructure for Autonomous Cyber-Physical Systems, Factory Floors, SCADA/MES Bridges, and Industrial Robot Fleets.
 
+## 🛡️ Why Choose SEOSiri Agent-Guard?
+
+Manual API management and unmanaged AI agents are significant corporate liabilities. SEOSiri provides the deterministic control plane required for enterprise production environments.
+
+| Feature | No Guardrails | Manual API Keys | SEOSiri Agent-Guard |
+| :--- | :---: | :---: | :---: |
+| **Prompt Injection Defense** | ❌ None | ❌ None | ✅ **AI Firewall (Layer 5)** |
+| **PII/PHI Redaction** | ❌ None | ❌ None | ✅ **Automatic (Layer 3)** |
+| **Operational Budget Caps** | ❌ None | ❌ None | ✅ **Smart Budget Gating** |
+| **Audit Trails (GxP)** | ❌ None | ❌ None | ✅ **Immutable SHA-256 Logs** |
+| **Setup Effort** | High | Medium | **Zero-Setup (MCP Standard)** |
+| **Operational Safety** | Risky | Risky | **Physics-Aware Interlocks** |
+
+---
+
 ## 🏭 6 Core Architectural Layers
 1. **Core Integration & Connectivity Layer:** ISA-95 Unified Namespace (UNS) translation, Modbus TCP/OPC UA/Sparkplug B bridges.
 2. **Telemetry Optimization & Token Management:** Local machine learning vectorized summarization and time-series compression buffers.
